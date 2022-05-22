@@ -5,10 +5,10 @@
                                                                                                                           
 <h3>About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Apex and Lightning, something about AWS
+- 🔭 &nbsp; I’m currently Fullstack dev about Apex and Lightning, something about AWS
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🎓 &nbsp; Studying Software Engineering from HCM University of Technology and Education (senior student)
-- 💼 &nbsp; Goal: Fullstack web developer.
+- 💼 &nbsp; Goal: Project Manager.
 - 🌱 &nbsp; Enthusiast in both client side and server side.
 - ✍️ &nbsp; Watching Movie and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; One day or day one. It’s your choice
