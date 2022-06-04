@@ -5,7 +5,7 @@
                                                                                                                           
 <h3>About Me </h3>
 
-- 🔭 &nbsp; I’m currently Fullstack dev about Apex and Lightning, something about AWS
+- 🔭 &nbsp; I’m currently Fullstack Cloud.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🎓 &nbsp; Studying Software Engineering from HCM University of Technology and Education (senior student)
 - 💼 &nbsp; Goal: Project Manager.
