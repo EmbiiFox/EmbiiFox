@@ -8,7 +8,7 @@
 <!-- - 🔭 &nbsp; I’m currently Fullstack Cloud. -->
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🎓 &nbsp; Studying Software Engineering from HCM University of Technology and Education (senior student)
-- 💼 &nbsp; Goal: Project Manager.
+//- 💼 &nbsp; Goal: Project Manager.
 - 🌱 &nbsp; Enthusiast in both client side and server side.
 - ✍️ &nbsp; Watching Movie and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; One day or day one. It’s your choice
