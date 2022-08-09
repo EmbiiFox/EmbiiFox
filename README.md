@@ -4,6 +4,8 @@
 <a href="https://app.daily.dev/barbieFox"><img align="right" src="https://api.daily.dev/devcards/7015ed63248148298f6271adaf133aa0.png?r=ucj" width="400" alt="Embii Cẩm Tú's Dev Card"/></a>
                                                                                                                           
 <h3>About Me </h3>
+
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🎓 &nbsp; Studying Software Engineering from HCM University of Technology and Education (senior student)
 - 🌱 &nbsp; Enthusiast in both client side and server side.
