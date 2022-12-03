@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Cẩm Tú (EMBII). <img src="https://chrisdermody.com/content/images/2019/07/animation3-npm_run-v4.gif" width="50"></h2>
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/> -->
+<!--  <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/> -->
 
 <a href="https://app.daily.dev/barbieFox"><img align="right" src="https://api.daily.dev/devcards/7015ed63248148298f6271adaf133aa0.png?r=ucj" width="400" alt="Embii Cẩm Tú's Dev Card"/></a>
                                                                                                                           
@@ -9,7 +9,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🎓 &nbsp; Studying Software Engineering from HCM University of Technology and Education (senior student)
 - 🌱 &nbsp; Enthusiast in both client side and server side.
-- ✍️ &nbsp; Watching Movie and trying out latest design trends as hobbies/side hustles.
+- ✍️ &nbsp; Watching Movie and trying out latest design trends as side hustles.
 - ☕ &nbsp; One day or day one. It’s your choice
 - 🥊 &nbsp; And never forget training.You only fail when you stop trying
 
@@ -20,8 +20,8 @@
 
 <h3>🗃️ Tech Stack</h3>
 
-<!-- - 💻 &nbsp; ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) 
-             ![CSharp](https://img.shields.io/badge/-CSharp-43aaf9?style=flat-square&logo=c) -->
+- 💻 &nbsp; ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) 
+             ![CSharp](https://img.shields.io/badge/-CSharp-43aaf9?style=flat-square&logo=c)
 - 🌐 &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) 
             ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) 
             ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
