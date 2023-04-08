@@ -24,7 +24,7 @@
 
 <h3>🗃️ Tech Stack</h3>
 
-- 💻 &nbsp; ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) 
+<!-- - 💻 &nbsp; <!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)  -->
              ![CSharp](https://img.shields.io/badge/-CSharp-43aaf9?style=flat-square&logo=c)
 - 🌐 &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) 
             ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) 
@@ -40,12 +40,12 @@
 - 🛢 &nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-e8e8e8?style=flat-square&logo=mysql)
             ![SQLserver](https://img.shields.io/badge/-SQLserver-181717?style=flat-square&logo=sql-server)
             ![MongoDB](https://img.shields.io/badge/-MongoDB-49C31B?style=flat-square&logo=mongodb)
-            ![Xampp](https://img.shields.io/badge/-Xampp-%23F05032?style=flat-square&logo=xampp&logoColor=%23ffffff) 
+            <-- ![Xampp](https://img.shields.io/badge/-Xampp-%23F05032?style=flat-square&logo=xampp&logoColor=%23ffffff) -->
 - 🔧 &nbsp; ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
             ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) 
             ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
             ![Postman](https://img.shields.io/badge/-Postman-181717?style=flat-square&logo=Postman)
-            ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+            
 
 </br>
 
