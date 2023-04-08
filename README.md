@@ -17,7 +17,9 @@
 
 <h3> Certificate </h3>
 - SCRUM Master Certificate by AXON
+<br/>
 - Azure Fundamental 
+<br/>
 - AWS Solutions Architect Professional
 
 <h3>🗃️ Tech Stack</h3>
