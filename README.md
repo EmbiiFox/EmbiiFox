@@ -4,13 +4,9 @@
 <a href="https://app.daily.dev/barbieFox"><img align="right" src="https://api.daily.dev/devcards/7015ed63248148298f6271adaf133aa0.png?r=ucj" width="400" alt="Embii Cẩm Tú's Dev Card"/></a>
                                                                                                                           
 <h3>About Me </h3>
-
-
 - 🥰 &nbsp; Exploring new technologies and developing software solutions
 - ☕ &nbsp; One day or day one. It’s your choice
 - 🥊 &nbsp; And never forget training.You only fail when you stop trying
-
-
 
 <h3> Certificate </h3>
 - SCRUM Master Certificate by AXON
@@ -36,7 +32,7 @@
               ![Express](https://img.shields.io/badge/-Express-E34A86?style=flat-square&logo=Express)
               ![.NET](https://img.shields.io/badge/-.NET-brightgreen)
 - 🛢 &nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-e8e8e8?style=flat-square&logo=mysql)
-            ![SQLserver](https://img.shields.io/badge/-SQLserver-181717?style=flat-square&logo=sql-server)
+            ![SQLServer](https://img.shields.io/badge/-SQLServer-181717?style=flat-square&logo=sql-server)
             ![MongoDB](https://img.shields.io/badge/-MongoDB-49C31B?style=flat-square&logo=mongodb)
 - 🔧 &nbsp; ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
             ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) 
