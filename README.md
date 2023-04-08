@@ -4,9 +4,10 @@
 <a href="https://app.daily.dev/barbieFox"><img align="right" src="https://api.daily.dev/devcards/7015ed63248148298f6271adaf133aa0.png?r=ucj" width="400" alt="Embii Cẩm Tú's Dev Card"/></a>
                                                                                                                           
 <h3>About Me </h3>
-- 🥰 &nbsp; Exploring new technologies and developing software solutions
-- ☕ &nbsp; One day or day one. It’s your choice
-- 🥊 &nbsp; And never forget training.You only fail when you stop trying
+- 🥰 Exploring new technologies and developing software solutions.
+<br/>
+- ☕ One day or day one. It’s your choice.  <br/>
+- 🥊 And never forget training.You only fail when you stop trying <br/>
 
 <h3> Certificate </h3>
 - SCRUM Master Certificate by AXON
