@@ -14,7 +14,7 @@
 <br/>
 - Azure Fundamental 
 <br/>
-- AWS Solutions Architect Professional
+<!-- - AWS Solutions Architect Professional -->
 
 <h3>🗃️ Tech Stack</h3>
 
