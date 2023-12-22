@@ -12,9 +12,7 @@
 <h3> Certificate </h3>
 - SCRUM Master Certificate by AXON
 <br/>
-- Azure Fundamental 
-<br/>
-<br/>
+- Azure Fundamental <br/>
 - Azure Developer Associate 
 <br/>
 <!-- - AWS Solutions Architect Professional -->
@@ -55,8 +53,7 @@
 
 &nbsp; <a href="mailto:dev.camtu2000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://preview.redd.it/izqwm1g21b751.png?auto=webp&s=da8f46dec79e38870efeac10d5a829e50792686b"  width="50" /></a>
 &nbsp; <a href="https://www.instagram.com/hydrangirl/" target="_blank" rel="noopener noreferrer"><img src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png"  width="50" /></a>
-&nbsp; <a href="https://www.linkedin.com/in/dev-nguyen-thi-cam-tu/" target="_blank" rel="noopener noreferrer"><img src="https://media.macosicons.com/parse/files/macOSicons/c1dafa6ab9556f27e2b9a3a6e1f07630_low_res_1619104099625.png" width="50" /></a>
-</p>
+LinkedIn: https://www.linkedin.com/in/dev-nguyen-thi-cam-tu/
 
 
 ### Resume
