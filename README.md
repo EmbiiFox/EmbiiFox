@@ -14,6 +14,9 @@
 <br/>
 - Azure Fundamental 
 <br/>
+<br/>
+- Azure Developer Associate 
+<br/>
 <!-- - AWS Solutions Architect Professional -->
 
 <h3>🗃️ Tech Stack</h3>
@@ -52,14 +55,11 @@
 
 &nbsp; <a href="mailto:dev.camtu2000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://preview.redd.it/izqwm1g21b751.png?auto=webp&s=da8f46dec79e38870efeac10d5a829e50792686b"  width="50" /></a>
 &nbsp; <a href="https://www.instagram.com/hydrangirl/" target="_blank" rel="noopener noreferrer"><img src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png"  width="50" /></a>
-&nbsp; <a href="https://www.linkedin.com/in/nguyen-thi-cam-tu-521770229/" target="_blank" rel="noopener noreferrer"><img src="https://media.macosicons.com/parse/files/macOSicons/c1dafa6ab9556f27e2b9a3a6e1f07630_low_res_1619104099625.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/dev-nguyen-thi-cam-tu/" target="_blank" rel="noopener noreferrer"><img src="https://media.macosicons.com/parse/files/macOSicons/c1dafa6ab9556f27e2b9a3a6e1f07630_low_res_1619104099625.png" width="50" /></a>
 </p>
 
 
 ### Resume
-<!-- <p align="center">    
-  <img src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159" width="250" height="300"/>
-</p> -->
 <p align="center"> 
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNairubi%2Fhit-counter&count_bg=%23C8883D&title_bg=%23555555&icon=icq.svg&icon_color=%238F7D7D&title=hits&edge_flat=false" />
 </p>
