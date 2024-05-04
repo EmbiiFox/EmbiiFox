@@ -10,7 +10,6 @@
 - 🥊 And never forget training.You only fail when you stop trying <br/>
 
 <h3> Certificate </h3>
-- SCRUM Master Certificate by AXON
 <br/>
 - Azure Fundamental <br/>
 - Azure Developer Associate 
