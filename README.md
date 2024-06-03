@@ -29,8 +29,7 @@
             ![SQLServer](https://img.shields.io/badge/-SQLServer-181717?style=flat-square&logo=sql-server)
 - 🔧 &nbsp; ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
             ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) 
-            ![Azure](https://img.shields.io/badge/-Azure-blue)(https://camo.githubusercontent.com/80d308b575eba9b5e7c5743493566354071b3b2324f406d6998eb498207415c3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b41575326636f6c6f723d323332463345266c6f676f3d416d617a6f6e2b415753266c6f676f436f6c6f723d464646464646266c6162656c3d)
-            
+            ![Azure](https://img.shields.io/badge/-Azure-blue)           
 
 </br>
 
@@ -41,7 +40,7 @@
 
 &nbsp; <a href="mailto:dev.camtu2000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://preview.redd.it/izqwm1g21b751.png?auto=webp&s=da8f46dec79e38870efeac10d5a829e50792686b"  width="50" /></a>
 &nbsp; <a href="https://www.instagram.com/hydrangirl/" target="_blank" rel="noopener noreferrer"><img src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png"  width="50" /></a>
-LinkedIn: https://www.linkedin.com/in/dev-nguyen-thi-cam-tu/
+&nbsp; <a href="https://www.linkedin.com/in/dev-nguyen-thi-cam-tu/" target="_blank" rel="noopener noreferrer"><img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png"  width="50" /></a>
 
 
 ### Resume
