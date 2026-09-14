@@ -31,7 +31,7 @@
 I'm a **Software Engineer** with **4+ years of experience** building full-stack solutions across the entire SDLC — from requirement analysis to production support.
 
 <pre>
-role:        Software Engineer 2
+role:        Software Engineer 2 @ PwC
 focus:       Full-stack Development (.NET · Angular · Azure)
 education:
   bachelor:  B.Eng in Software Engineering @ HCMUTE
