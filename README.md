@@ -26,13 +26,11 @@
 
 ## 👋 About Me
 
-<table style="border:none; border-collapse:collapse; width:100%;">
-<tr>
-<td width="60%" valign="top" style="border:none;">
+<img align="right" src="https://api.daily.dev/devcards/7015ed63248148298f6271adaf133aa0.png?r=gik" width="320" alt="Daily.dev Card"/>
 
 I'm a **Software Engineer** with **4+ years of experience** building full-stack solutions across the entire SDLC — from requirement analysis to production support.
 
-<pre style="background-color:transparent; border:none; padding:10px 0;">
+<pre>
 role:        Software Engineer 2
 focus:       Full-stack Development (.NET · Angular · Azure)
 education:
@@ -50,34 +48,16 @@ philosophy:  "One day or day one. It's your choice."
 - 🎯 Goal: growing into a **Senior Engineer** at the intersection of Software Engineering & AI
 - 🥊 *You only fail when you stop trying.*
 
-</td>
-<td width="40%" valign="top" align="center" style="border:none;">
-
-<br/>
-
-<a href="https://app.daily.dev/barbieFox">
-  <img src="https://api.daily.dev/devcards/7015ed63248148298f6271adaf133aa0.png?r=gik" width="100%" alt="Embii Cẩm Tú's Dev Card"/>
-</a>
-
-<sub>📚 Curating & reading the latest in Software Engineering and AI</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
+<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
-<table style="border:none; border-collapse:collapse; width:100%;">
+<table border="0" cellspacing="0" cellpadding="10" width="100%">
 <tr>
-<td width="33%" valign="top" style="border:none; padding:0 5px 0 0;">
+<td width="33%" valign="top" align="center">
 
-<div style="background-color:#0d1117; padding:15px; border-radius:10px; width:100%; box-sizing:border-box;">
-
-### 💻 Frontend
+**💻 Frontend**
+<br/><br/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><br/>
@@ -85,42 +65,30 @@ philosophy:  "One day or day one. It's your choice."
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
-</div>
-
 </td>
-<td width="33%" valign="top" style="border:none; padding:0 5px;">
+<td width="33%" valign="top" align="center">
 
-<div style="background-color:#0d1117; padding:15px; border-radius:10px; width:100%; box-sizing:border-box;">
-
-### ⚙️ Backend & Database
+**⚙️ Backend & Database**
+<br/><br/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=azure-cosmos-db&logoColor=white"/>
 
-</div>
-
 </td>
-<td width="33%" valign="top" style="border:none; padding:0 0 0 5px;">
+<td width="33%" valign="top" align="center">
 
-<div style="background-color:#0d1117; padding:15px; border-radius:10px; width:100%; box-sizing:border-box;">
-
-### ☁️ Cloud & Tools
+**☁️ Cloud & Tools**
+<br/><br/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-</div>
-
 </td>
 </tr>
 </table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
 
 ## 🎓 Certifications
 
