@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Full-stack+(.NET+%C2%B7+Angular+%C2%B7+Azure);4%2B+years+building+production-grade+systems;Exploring+AI+Agents+%26+Intelligent+Systems;Master's+Candidate+%40+HCMUTE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Full-stack+(.NET+%C2%B7+Angular+%C2%B7+Azure);4%2B+years+building+production-grade+systems;Exploring+AI+Agents+%26+Intelligent+Systems;Master's+Candidate+%40+HCMUT+%7C+B.Eng+%40+HCMUTE" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -40,6 +40,8 @@ I'm a **Software Engineer** with **4+ years of experience** building full-stack 
 ```yaml
 role:        Software Engineer 2
 focus:       Full-stack Development (.NET · Angular · Azure)
-current:     Master's Candidate @ HCMUTE
+education:
+  bachelor:  B.Eng in Software Engineering @ HCMUTE
+  master:    M.Sc in Computer Science @ HCMUT (in progress)
 exploring:   AI Agents & Intelligent Systems
 philosophy:  "One day or day one. It's your choice."
