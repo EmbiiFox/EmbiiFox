@@ -1,50 +1,98 @@
-<h2> Hey there! I'm Cẩm Tú (EMBII). <img src="https://chrisdermody.com/content/images/2019/07/animation3-npm_run-v4.gif" width="50"></h2>
-<!--  <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/> -->
+<div align="center">
 
-<a href="https://app.daily.dev/barbieFox"><img align="right" src="https://api.daily.dev/devcards/7015ed63248148298f6271adaf133aa0.png?r=gik" width="400" alt="Embii Cẩm Tú's Dev Card"/></a>
+<!-- Typing animation - value proposition ngay đầu -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Full-stack+(.NET+%C2%B7+Angular+%C2%B7+Azure);4%2B+years+building+production-grade+systems;Now+exploring+LLM+Agents+%26+Explainable+AI;Master's+Candidate+%40+HCMUTE" alt="Typing SVG" />
 
-<h3>About Me </h3>
-- 🥰 Exploring new technologies and developing software solutions.
 <br/>
-- ☕ One day or day one. It’s your choice.  <br/>
-- 🥊 And never forget training.You only fail when you stop trying <br/>
 
-<h3> Certificate </h3>
+<!-- Social badges - thay reddit/rawpixel images bằng shields.io đồng bộ -->
+<a href="mailto:dev.camtu2000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dev-nguyen-thi-cam-tu/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://app.daily.dev/barbieFox">
+  <img src="https://img.shields.io/badge/Daily.dev-000000?style=for-the-badge&logo=dailydotdev&logoColor=white" />
+</a>
+
+</div>
+
 <br/>
-- Azure Fundamental <br/>
-- Azure Developer Associate 
+
+## 👋 About Me
+
+I'm **Cẩm Tú** — a Software Engineer with **4+ years** building full-stack solutions across the entire SDLC, from requirement analysis to production support.
+
+- 🔭 Currently building enterprise-grade platforms with **.NET Core**, **Angular**, and **Azure**
+- 🧪 Passionate about **quality engineering** — 90%+ unit test coverage, mutation testing with Stryker.NET
+- 🌱 Exploring **AI Agents & Intelligent Systems** — bridging traditional SE with Applied AI
+- 🎓 Currently pursuing **Master's in Computer Science** @ HCMC University of Technology and Education
 <br/>
-<h3>🗃️ Tech Stack</h3>
 
-- 💻 &nbsp;  ![CSharp](https://img.shields.io/badge/-CSharp-43aaf9?style=flat-square&logo=c)
-- 🌐 &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) 
-            ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) 
-            ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-            ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23a366cc?style=flat-square&logo=bootstrap&logoColor=ffffff)
-            ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-            ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-            ![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular)
-- 🕹️ &nbsp; ![.NET](https://img.shields.io/badge/-.NET-brightgreen)
-- 🛢 &nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-e8e8e8?style=flat-square&logo=mysql)
-            ![SQLServer](https://img.shields.io/badge/-SQLServer-181717?style=flat-square&logo=sql-server)
-- 🔧 &nbsp; ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-            ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) 
-            ![Azure](https://img.shields.io/badge/-Azure-blue)           
+## 🛠️ Tech Stack
 
-</br>
+<table>
+<tr>
+<td valign="top" width="50%">
 
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 
-<h3> 🤝🏻 Connect with Me </h3>
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
 
-<p align="center">
+</td>
+<td valign="top" width="50%">
 
-&nbsp; <a href="mailto:dev.camtu2000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://preview.redd.it/izqwm1g21b751.png?auto=webp&s=da8f46dec79e38870efeac10d5a829e50792686b"  width="50" /></a>
-&nbsp; <a href="https://www.instagram.com/nguyentu.8888/" target="_blank" rel="noopener noreferrer"><img src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png"  width="50" /></a>
-&nbsp; <a href="https://www.linkedin.com/in/dev-nguyen-thi-cam-tu/" target="_blank" rel="noopener noreferrer"><img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png"  width="50" /></a>
+**Cloud & Database**
+<br/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square&logo=azure-cosmos-db&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
+**Testing & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 
-### Resume
-<p align="center"> 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNairubi%2Fhit-counter&count_bg=%23C8883D&title_bg=%23555555&icon=icq.svg&icon_color=%238F7D7D&title=hits&edge_flat=false" />
-</p>
+</td>
+</tr>
+</table>
 
+<br/>
+
+## 🎓 Certifications
+
+<div align="left">
+<img src="https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_Developer_Associate-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2EA3F2&style=flat-square" />
+</div>
