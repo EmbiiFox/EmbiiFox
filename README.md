@@ -111,7 +111,7 @@ philosophy:  "One day or day one. It's your choice."
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
 
 ## 📊 GitHub Analytics
-
+<div align="center">
 <img src="https://streak-stats.demolab.com/?user=EmbiiFox&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
