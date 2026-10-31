@@ -79,7 +79,8 @@ def langs_card(u):
     return frame(480, 240, "Most Used Languages", body)
 
 def activity_card(u):
-    days = [d for w in u["contributionsCollection"]["contributionCalendar"]["weeks"] for d in w["contributionDays"]][-31:]
+    weeks = u["contributionsCollection"]["contributionCalendar"]["weeks"][-52:]
+    days = [{"date": w["contributionDays"][0]["date"], "contributionCount": sum(d["contributionCount"] for d in w["contributionDays"])} for w in weeks if w["contributionDays"]]
     W, H, L, R, T, B = 1000, 300, 60, 30, 70, 50
     vals = [d["contributionCount"] for d in days]; mx = max(vals + [4])
     pw, ph = W - L - R, H - T - B
@@ -90,16 +91,16 @@ def activity_card(u):
         grid += (f'<line x1="{L}" y1="{y:.0f}" x2="{W-R}" y2="{y:.0f}" stroke="{LINE}" stroke-dasharray="3 5"/>'
                  f'<text x="{L-12}" y="{y+4:.0f}" font-family="{FONT}" font-size="11" fill="{MUTED}" text-anchor="end">{val}</text>')
     for i, d in enumerate(days):
-        if i % 5 == 0 or i == len(days) - 1:
+        if i % 6 == 0 or i == len(days) - 1:
             dt = datetime.date.fromisoformat(d["date"])
-            grid += f'<text x="{pts[i][0]:.0f}" y="{H-B+22}" font-family="{FONT}" font-size="11" fill="{MUTED}" text-anchor="middle">{dt.strftime("%b %d")}</text>'
+            grid += f'<text x="{pts[i][0]:.0f}" y="{H-B+22}" font-family="{FONT}" font-size="11" fill="{MUTED}" text-anchor="middle">{dt.strftime("%b %y")}</text>'
     line = " ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
     area = f"{L},{T+ph} " + line + f" {W-R},{T+ph}"
-    dots = "".join(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3.5" fill="{LIGHT}" stroke="{PINK2}" stroke-width="1.5"/>' for x, y in pts)
+    dots = "".join(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="2.8" fill="{LIGHT}" stroke="{PINK2}" stroke-width="1.5"/>' for x, y in pts)
     body = (f'<defs><linearGradient id="ar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="{PINK2}" stop-opacity=".55"/>'
             f'<stop offset="1" stop-color="#880E4F" stop-opacity="0"/></linearGradient></defs>{grid}'
             f'<polygon points="{area}" fill="url(#ar)"/><polyline points="{line}" fill="none" stroke="{PINK2}" stroke-width="2.5" stroke-linejoin="round"/>{dots}'
-            f'<text x="{W-26}" y="40" font-family="{FONT}" font-size="13" fill="{MUTED}" text-anchor="end">last 31 days · {sum(vals)} contributions</text>')
+            f'<text x="{W-26}" y="40" font-family="{FONT}" font-size="13" fill="{MUTED}" text-anchor="end">last 12 months · weekly · {sum(vals)} public contributions</text>')
     return frame(W, H, "Contribution Graph", body)
 
 if __name__ == "__main__":
