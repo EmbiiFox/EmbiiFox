@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.svg" width="100%" alt="Cẩm Tú — Software Engineer | Full-stack (.NET · Angular · Azure) | Exploring AI"/>
+<img src="assets/profile-v2.svg" width="100%" alt="Cẩm Tú — Software Engineer | Full-stack (.NET · Angular · Azure) | Exploring AI"/>
 
 <a href="mailto:dev.camtu2000@gmail.com"><img src="assets/btn-email.svg" height="38" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/dev-nguyen-thi-cam-tu/"><img src="assets/btn-linkedin.svg" height="38" alt="LinkedIn"/></a>
